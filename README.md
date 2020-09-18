@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**tarunnsingh/tarunnsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **Tarun**, a CS student and an aspiring engineer. I :heart: working with JavaScript and Python. I code and maintain our own organisation :page_with_curl: (Alexa-Dev-Hub)[https://github.com/alexa-dev-hub].
 
-Here are some ideas to get you started:
+## I work on: :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ MERN Stack :star:
+✨ Data Science :star2:
+✨ Voice Tech :purple_heart:
+
+## Find More:
+
+- 🤔 I’m looking for help with Good MERN Stack Projects/Issues/Organisations to connect and work with.
+- 📫 How to reach me: (tarunsingh.tech)[https://tarunsingh.tech].
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Public Speaking is an additional feature in my package! :wink:
+
+## Thanks! for being here and Check out these Repos. :arrow_double_down:
