@@ -15,4 +15,6 @@ This is **Tarun**, a CS student and an aspiring engineer. I :heart: working with
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Public Speaking is an additional feature in my package! :wink:
 
+![](https://komarev.com/ghpvc/?username=tarunnsingh&color=blueviolet)
+
 ## Thanks! for being here and do check out these repositories :arrow_double_down:
