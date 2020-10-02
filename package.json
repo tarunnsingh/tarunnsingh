@@ -1,0 +1,22 @@
+{
+  "name": "tarunnsingh",
+  "version": "1.0.1",
+  "description": "My README, says a lot about me",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarunnsingh/tarunnsingh.git"
+  },
+  "author": "Tarun Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarunnsingh/tarunnsingh/issues"
+  },
+  "homepage": "https://github.com/tarunnsingh/tarunnsingh#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
