@@ -13,7 +13,6 @@ This is **Tarun**, a CS student and an aspiring engineer. I :heart: working with
 
 - 🤔 I’m looking for help with Good MERN Stack Projects/Issues/Organisations to connect and work with.
 - 📫 How to reach me: [tarunsingh.tech](https://tarunsingh.tech).
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Public Speaking is an additional feature in my package! :wink:
 
 ![](https://komarev.com/ghpvc/?username=tarunnsingh&color=blueviolet)
