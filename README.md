@@ -21,5 +21,7 @@ This is **Tarun**, a CS student and an aspiring engineer. I :heart: working with
 
 ## Thanks! for being here and do check out these repositories :arrow_double_down:
 
-[![imdb-fetcher](https://github-readme-stats.vercel.app/api/pin/?username=tarunnsingh&repo=imdb-fetcher)](https://github.com/tarunnsingh/imdb-fetcher)
+[![imdb-fetcher](https://github-readme-stats.vercel.app/api/pin/?username=tarunnsingh&repo=imdb-fetcher&show_owner=true)](https://github.com/tarunnsingh/imdb-fetcher)
+
+[![articles-store-mern](https://github-readme-stats.vercel.app/api/pin/?username=tarunnsingh&repo=articles-store-mern&show_owner=true)](https://github.com/tarunnsingh/articles-store-mern)
 
